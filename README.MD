@@ -30,6 +30,9 @@ DATABASE_URI=sqlite:///urls.db
 SECRET_KEY=YOUR_SECRET_KEY
 ```
 5. Запустите flask приложение
+```commandline
+flask run
+```
 
 ## Автор проекта
 
