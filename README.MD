@@ -30,3 +30,7 @@ DATABASE_URI=sqlite:///urls.db
 SECRET_KEY=YOUR_SECRET_KEY
 ```
 5. Запустите flask приложение
+
+## Автор проекта
+
+_**Автор: Бояркин Егор**_
